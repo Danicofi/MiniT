@@ -17,6 +17,8 @@ public class SignUpActivity extends AppCompatActivity implements View.OnClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up);
 
+        getSupportActionBar().hide();
+
         btnSingUp = findViewById(R.id.buttonSignUp);
         tvGoLogin = findViewById(R.id.textViewGoLogin);
 
