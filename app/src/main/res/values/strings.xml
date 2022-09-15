@@ -6,4 +6,5 @@
     <string name="text_create_account">Si aún no tienes cuenta, regístrate aquí.</string>
     <string name="text_go_login">Si ya dispone de una cuenta, inicie secion aqui</string>
     <string name="hint_userName">Nombre de usuario</string>
+    <string name="btn_signUp">REGISTRARSE</string>
 </resources>
